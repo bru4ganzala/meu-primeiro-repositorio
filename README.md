@@ -2,7 +2,5 @@
 
 Para executar nosso codigos utilize o seguinte comando 
 ```
-se (var == 1 ){
-teste = 1 
-}
+node app.js 
 ```
